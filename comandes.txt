@@ -1,0 +1,7 @@
+Per pujar del local al Github 
+1- git add .
+2. git commit -m 'comentari'
+3. git push -u origin main
+
+Per pujar del Github al local
+1- git pull
